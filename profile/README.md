@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://hyperin.vercel.app/HyperIN.png" width="250" height="250">
 
-# HyperIN : The Ultra-Pure HyperOS ROM
+# HyperIN : The Ultra Pure HyperOS ROM
 
 [HyperIN Website](https://hyperin.vercel.app)
 
